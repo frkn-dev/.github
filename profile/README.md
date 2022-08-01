@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../profile/media/logofckrkn.jpg" width="350" title="FuckRKN1">
+  <img src="./media/logofckrkn.jpg" width="350" title="FuckRKN1">
 </p>
 
 # [FuckRKN1](https://fuckrkn1.org/#ru): Free VPN for free humans
