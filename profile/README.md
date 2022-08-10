@@ -1,3 +1,2 @@
 
-# TBD
-
+# Nezavisimost' for Independence
