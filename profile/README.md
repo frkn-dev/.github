@@ -12,6 +12,7 @@ Any type of Open Source project could be run under our flag. We are community fi
 Currently all work are concentrated around free and open VPN service which are fighting for freedom of speech in internet mainly for occupied territories by Russia. But planned to expand world wide. The Earth has a lot of territories are ruled by dictators. 👿👿👿
 
 [Main repository](https://github.com/nezavisimost/FuckRKN1) - contains all configurations of main VPN service FuckRKN1. 
+
 Also please feel free to make an issue if you have any trouble or feature-request - [List of issues](https://github.com/nezavisimost/FuckRKN1/issues)
 
 
@@ -21,9 +22,12 @@ Projects in progress 🔥🔥🔥:
  - [iOS Client](https://github.com/nezavisimost/liberty-ios)  
  - [Android Client](https://github.com/nezavisimost/liberty-android) 
  - [Windows Client](https://github.com/nezavisimost/liberty-win) 
+ - [Monitoring](https://github.com/nezavisimost/liberty-monitoring) 
 
  Anyone are welcome for development and testing. 
  Feel free to join [Development Telegram Chat](https://t.me/nezavisimost_dev) to discuss.
+
+ Please tag @the2pizza in your issues, pull requests and conversations 
 
 
 
