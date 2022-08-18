@@ -29,7 +29,7 @@ Projects in progress 🔥🔥🔥:
  Anyone are welcome for development and testing. 
  Feel free to join [**Development Telegram Chat**](https://t.me/nezavisimost_dev) to discuss.
 
- Please tag ``@the2pizza`` in your issues, pull requests and conversations 
+ Please tag **``@the2pizza``** in your issues, pull requests and conversations 
 
  
 
