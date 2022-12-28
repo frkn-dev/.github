@@ -25,7 +25,7 @@ Projects in progress 🔥🔥🔥:
  - [**Android Client**](https://github.com/nezavisimost/liberty-android) 
  - [**Windows Client**](https://github.com/nezavisimost/liberty-win) 
  - [**Monitoring**](https://github.com/nezavisimost/liberty-monitoring) 
- - [**Wiregurad Control API**](https://github.com/nezavisimost/wgctrl)
+ - [**Wireguard Control API**](https://github.com/nezavisimost/wgctrl)
 
  Anyone are welcome for development and testing. 
  Feel free to join [**Development Telegram Chat**](https://t.me/nezavisimost_dev) to discuss.
