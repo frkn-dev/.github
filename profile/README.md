@@ -1,13 +1,9 @@
 
 # Nezavisimost' for Independence
 
-[**Русский**](README.md)|[**English**](README-en.md)
-
 The org are supposed to be a main pirate schooner for raiding open source philosophy. 🏴‍☠️
 
 Any type of Open Source project could be run under our flag. We are community first of all.  
-
-[Rules](./rules.md)
 
 
 ## [FuckRKN1](https://fuckrkn1.org) 
