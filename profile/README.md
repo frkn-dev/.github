@@ -1,6 +1,7 @@
 
 # Nezavisimost' for Independence
 
+[**Русский**](README.md)|[**English**](README-en.md)
 
 The org are supposed to be a main pirate schooner for raiding open source philosophy. 🏴‍☠️
 
