@@ -27,17 +27,5 @@ Projects in progress 🔥🔥🔥:
  - [**Wireguard Control API**](https://github.com/nezavisimost/wgctrl)
 
  Anyone are welcome for development and testing. 
- Feel free to join [**Development Telegram Chat**](https://t.me/nezavisimost_dev) to discuss.
-
- Please tag **``@the2pizza``** in your issues, pull requests and conversations 
-
- 
-
-
-
-
-
-
-
-
+ Feel free to join [**Development Discord Chat**](https://discord.gg/WGmXPX6C) to discuss or feedback.
 
