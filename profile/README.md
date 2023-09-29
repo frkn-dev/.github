@@ -1,12 +1,7 @@
 
-# Nezavisimost' for Independence
+# FRKN: Privacy Company
 
-The org are supposed to be a main pirate schooner for raiding open source philosophy. 🏴‍☠️
-
-Any type of Open Source project could be run under our flag. We are community first of all.  
-
-
-## [FuckRKN1](https://fuckrkn1.org) 
+## [FRKN1](https://fuckrkn1.org) 
 
 ### [Service Status Dashboard](https://m.fuckrkn1.org/d/fX0pLFiVz/fuckrkn1-dashboard?orgId=1)
 
