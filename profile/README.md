@@ -1,9 +1,4 @@
 
-# FRKN: Privacy Company
+# frkn: Privacy Company
 
-## [FRKN](https://frkn.org) 
-
-FRKN was here, all questions to https://t.me/frkn_support
-
-
-
+## [frkn](https://frkn.org) 
