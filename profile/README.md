@@ -1,4 +1,6 @@
 
-# frkn: Privacy Company
+# frkn| Privacy Company
 
-## [frkn](https://frkn.org) 
+[frkn](https://frkn.org) 
+
+We are doing internet
